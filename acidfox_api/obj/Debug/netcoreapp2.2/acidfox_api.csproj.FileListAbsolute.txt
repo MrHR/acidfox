@@ -1,0 +1,16 @@
+/Users/rubenhannon/OneDrive/Projects/Ruben/pvda/Ledenlijst/acidfox_api/bin/Debug/netcoreapp2.2/acidfox_api.deps.json
+/Users/rubenhannon/OneDrive/Projects/Ruben/pvda/Ledenlijst/acidfox_api/bin/Debug/netcoreapp2.2/acidfox_api.runtimeconfig.json
+/Users/rubenhannon/OneDrive/Projects/Ruben/pvda/Ledenlijst/acidfox_api/bin/Debug/netcoreapp2.2/acidfox_api.runtimeconfig.dev.json
+/Users/rubenhannon/OneDrive/Projects/Ruben/pvda/Ledenlijst/acidfox_api/bin/Debug/netcoreapp2.2/acidfox_api.dll
+/Users/rubenhannon/OneDrive/Projects/Ruben/pvda/Ledenlijst/acidfox_api/bin/Debug/netcoreapp2.2/acidfox_api.pdb
+/Users/rubenhannon/OneDrive/Projects/Ruben/pvda/Ledenlijst/acidfox_api/obj/Debug/netcoreapp2.2/acidfox_api.csprojAssemblyReference.cache
+/Users/rubenhannon/OneDrive/Projects/Ruben/pvda/Ledenlijst/acidfox_api/obj/Debug/netcoreapp2.2/acidfox_api.csproj.CoreCompileInputs.cache
+/Users/rubenhannon/OneDrive/Projects/Ruben/pvda/Ledenlijst/acidfox_api/obj/Debug/netcoreapp2.2/acidfox_api.RazorAssemblyInfo.cache
+/Users/rubenhannon/OneDrive/Projects/Ruben/pvda/Ledenlijst/acidfox_api/obj/Debug/netcoreapp2.2/acidfox_api.RazorAssemblyInfo.cs
+/Users/rubenhannon/OneDrive/Projects/Ruben/pvda/Ledenlijst/acidfox_api/obj/Debug/netcoreapp2.2/acidfox_api.AssemblyInfoInputs.cache
+/Users/rubenhannon/OneDrive/Projects/Ruben/pvda/Ledenlijst/acidfox_api/obj/Debug/netcoreapp2.2/acidfox_api.AssemblyInfo.cs
+/Users/rubenhannon/OneDrive/Projects/Ruben/pvda/Ledenlijst/acidfox_api/obj/Debug/netcoreapp2.2/acidfox_api.RazorTargetAssemblyInfo.cache
+/Users/rubenhannon/OneDrive/Projects/Ruben/pvda/Ledenlijst/acidfox_api/obj/Debug/netcoreapp2.2/acidfox_api.dll
+/Users/rubenhannon/OneDrive/Projects/Ruben/pvda/Ledenlijst/acidfox_api/obj/Debug/netcoreapp2.2/acidfox_api.pdb
+/Users/rubenhannon/OneDrive/Projects/Ruben/pvda/Ledenlijst/acidfox_api/bin/Debug/netcoreapp2.2/acidfox_api.Views.dll
+/Users/rubenhannon/OneDrive/Projects/Ruben/pvda/Ledenlijst/acidfox_api/obj/Debug/netcoreapp2.2/acidfox_api.csproj.CopyComplete
